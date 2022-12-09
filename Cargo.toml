@@ -1,7 +1,15 @@
 [package]
 name = "tocall"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
+authors = ["cheeroncode <code@autodo.xyz>"]
+
+description = "This crate tries to provide useful tool modules in a more concise API."
+license = "LGPL-3.0"
+categories = ["development-tools", "accessibility"]
+homepage = "https://autodo.xyz"
+keywords = ["base", "dev", "tool"]
+readme = "Readme.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
